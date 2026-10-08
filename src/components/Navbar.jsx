@@ -77,7 +77,7 @@ export default function Navbar() {
         <div className="flex items-center space-x-2">
           <img src={Logo} alt="Logo" className="w-8 h-8" />
           <div className="text-2xl font-bold text-white hidden sm:block">
-            Vishal
+            MVN
           </div>
         </div>
 
